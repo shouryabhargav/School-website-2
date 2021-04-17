@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+marquee{
+    background-color: blue;
+    height: 30px;
+    font-size: 25px;
+}
+
+.bro{
+    font-family: serif;
+    text-decoration-style: solid;
+}
+
+#contact iframe {
+    width: 100%
+}
+
+.my_nav_bar{
+    position: sticky;
+    top:0;
+    z-index: 100;
+}
+
+span{
+    color: #ff7700;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
